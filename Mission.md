@@ -1,0 +1,5 @@
+Our mission is to improve automotive understanding and repair decision-making through accurate, transparent, and safety-focused guidance.
+We aim to help vehicle owners clearly understand vehicle issues, evaluate repair options, and communicate more effectively with automotive professionals. By combining data-driven analysis, intelligent systems, and human expertise, the platform delivers practical, easy-to-understand insights that reduce confusion and promote informed action.
+The platform is designed with a strong emphasis on reliability, accessibility, and public benefit. We prioritize safety, clarity, and ethical use of technology, ensuring that information is presented responsibly and without bias toward products, services, or outcomes.
+Our goal is to serve as a trusted educational and decision-support resource that strengthens the relationship between drivers and automotive professionals, while contributing to safer vehicles and better long-term vehicle care.
+This platform provides informational guidance only and does not replace certified mechanical inspection or professional repair services.
